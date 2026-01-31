@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22E79B5F-DACF-D825-2763-4832B3DC614E}|TheCollectorsKeep_Capstone.csproj|c:\\users\\elian\\onedrive - dominican university\\thecollectorskeep_capstone\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{22E79B5F-DACF-D825-2763-4832B3DC614E}|TheCollectorsKeep_Capstone.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E79B5F-DACF-D825-2763-4832B3DC614E}|TheCollectorsKeep_Capstone.csproj|c:\\users\\elian\\onedrive - dominican university\\thecollectorskeep_capstone\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22E79B5F-DACF-D825-2763-4832B3DC614E}|TheCollectorsKeep_Capstone.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E79B5F-DACF-D825-2763-4832B3DC614E}|TheCollectorsKeep_Capstone.csproj|c:\\users\\elian\\onedrive - dominican university\\thecollectorskeep_capstone\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22E79B5F-DACF-D825-2763-4832B3DC614E}|TheCollectorsKeep_Capstone.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E79B5F-DACF-D825-2763-4832B3DC614E}|TheCollectorsKeep_Capstone.csproj|c:\\users\\elian\\onedrive - dominican university\\thecollectorskeep_capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{22E79B5F-DACF-D825-2763-4832B3DC614E}|TheCollectorsKeep_Capstone.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E79B5F-DACF-D825-2763-4832B3DC614E}|TheCollectorsKeep_Capstone.csproj|c:\\users\\elian\\onedrive - dominican university\\thecollectorskeep_capstone\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{22E79B5F-DACF-D825-2763-4832B3DC614E}|TheCollectorsKeep_Capstone.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E79B5F-DACF-D825-2763-4832B3DC614E}|TheCollectorsKeep_Capstone.csproj|c:\\users\\elian\\onedrive - dominican university\\thecollectorskeep_capstone\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{22E79B5F-DACF-D825-2763-4832B3DC614E}|TheCollectorsKeep_Capstone.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E79B5F-DACF-D825-2763-4832B3DC614E}|TheCollectorsKeep_Capstone.csproj|c:\\users\\elian\\onedrive - dominican university\\thecollectorskeep_capstone\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22E79B5F-DACF-D825-2763-4832B3DC614E}|TheCollectorsKeep_Capstone.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E79B5F-DACF-D825-2763-4832B3DC614E}|TheCollectorsKeep_Capstone.csproj|c:\\users\\elian\\onedrive - dominican university\\thecollectorskeep_capstone\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22E79B5F-DACF-D825-2763-4832B3DC614E}|TheCollectorsKeep_Capstone.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E79B5F-DACF-D825-2763-4832B3DC614E}|TheCollectorsKeep_Capstone.csproj|c:\\users\\elian\\onedrive - dominican university\\thecollectorskeep_capstone\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22E79B5F-DACF-D825-2763-4832B3DC614E}|TheCollectorsKeep_Capstone.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E79B5F-DACF-D825-2763-4832B3DC614E}|TheCollectorsKeep_Capstone.csproj|c:\\users\\elian\\onedrive - dominican university\\thecollectorskeep_capstone\\migrations\\20260131045833_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E79B5F-DACF-D825-2763-4832B3DC614E}|TheCollectorsKeep_Capstone.csproj|solutionrelative:migrations\\20260131045833_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183EBF06-D6D0-7DAA-A433-BA6599200109}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\elian\\onedrive - dominican university\\dataaccesslayer\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183EBF06-D6D0-7DAA-A433-BA6599200109}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\elian\\onedrive - dominican university\\dataaccesslayer\\data\\collectorskeepdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E79B5F-DACF-D825-2763-4832B3DC614E}|TheCollectorsKeep_Capstone.csproj|c:\\users\\elian\\onedrive - dominican university\\thecollectorskeep_capstone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E79B5F-DACF-D825-2763-4832B3DC614E}|TheCollectorsKeep_Capstone.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183EBF06-D6D0-7DAA-A433-BA6599200109}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\elian\\onedrive - dominican university\\dataaccesslayer\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183EBF06-D6D0-7DAA-A433-BA6599200109}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\elian\\onedrive - dominican university\\dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E79B5F-DACF-D825-2763-4832B3DC614E}|TheCollectorsKeep_Capstone.csproj|c:\\users\\elian\\onedrive - dominican university\\thecollectorskeep_capstone\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22E79B5F-DACF-D825-2763-4832B3DC614E}|TheCollectorsKeep_Capstone.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183EBF06-D6D0-7DAA-A433-BA6599200109}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\elian\\onedrive - dominican university\\dataaccesslayer\\datamodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183EBF06-D6D0-7DAA-A433-BA6599200109}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\elian\\onedrive - dominican university\\dataaccesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T05:27:40.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T05:13:57.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-31T05:10:25.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-31T05:10:11.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAYwJkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-31T05:09:41.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-31T05:07:39.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T05:05:29.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T05:01:01.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T05:01:00.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260131045833_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\Migrations\\20260131045833_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260131045833_Initial.cs",
+              "ToolTip": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\Migrations\\20260131045833_Initial.cs",
+              "RelativeToolTip": "Migrations\\20260131045833_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T04:58:34.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\elian\\OneDrive - Dominican University\\DataAccessLayer\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\elian\\OneDrive - Dominican University\\DataAccessLayer\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T04:41:34.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CollectorsKeepDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\elian\\OneDrive - Dominican University\\DataAccessLayer\\Data\\CollectorsKeepDbContext.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Data\\CollectorsKeepDbContext.cs",
+              "ToolTip": "C:\\Users\\elian\\OneDrive - Dominican University\\DataAccessLayer\\Data\\CollectorsKeepDbContext.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Data\\CollectorsKeepDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T04:13:26.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T04:29:04.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\elian\\OneDrive - Dominican University\\DataAccessLayer\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\elian\\OneDrive - Dominican University\\DataAccessLayer\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T04:44:10.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataAccessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\elian\\OneDrive - Dominican University\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\DataAccessLayer.csproj",
+              "ToolTip": "C:\\Users\\elian\\OneDrive - Dominican University\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeToolTip": "..\\DataAccessLayer\\DataAccessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-31T04:33:10.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-31T04:28:43.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\elian\\OneDrive - Dominican University\\DataAccessLayer\\DataModels\\Product.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\DataModels\\Product.cs",
+              "ToolTip": "C:\\Users\\elian\\OneDrive - Dominican University\\DataAccessLayer\\DataModels\\Product.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\DataModels\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T04:09:50.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\elian\\OneDrive - Dominican University\\DataAccessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\elian\\OneDrive - Dominican University\\DataAccessLayer\\Class1.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T03:27:35.058Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
