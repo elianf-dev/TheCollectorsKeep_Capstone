@@ -17,7 +17,7 @@ builder.Services.AddDbContext<CollectorsKeepDbContext>(options =>
     ));
 
 
-builder.Services.AddDefaultIdentity<IdentityUser>(options =>
+builder.Services.AddDefaultIdentity<ApplicationUser>(options =>
 {
     options.SignIn.RequireConfirmedAccount = false;
 })

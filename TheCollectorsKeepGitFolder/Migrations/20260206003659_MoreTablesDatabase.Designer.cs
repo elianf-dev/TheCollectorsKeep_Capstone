@@ -4,6 +4,7 @@ using DataAccessLayer.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace TheCollectorsKeep_Capstone.Migrations
 {
     [DbContext(typeof(CollectorsKeepDbContext))]
-    partial class CollectorsKeepDbContextModelSnapshot : ModelSnapshot
+    [Migration("20260206003659_MoreTablesDatabase")]
+    partial class MoreTablesDatabase
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -208,11 +211,13 @@ namespace TheCollectorsKeep_Capstone.Migrations
                     b.Property<int>("ProductID")
                         .HasColumnType("int");
 
+                    b.Property<int?>("ProductID1")
+                        .HasColumnType("int");
+
                     b.Property<int>("Quantity")
                         .HasColumnType("int");
 
                     b.Property<decimal>("UnitPrice")
-                        .HasPrecision(18, 2)
                         .HasColumnType("decimal(18,2)");
 
                     b.HasKey("OrderItemID");
@@ -220,6 +225,8 @@ namespace TheCollectorsKeep_Capstone.Migrations
                     b.HasIndex("OrderID");
 
                     b.HasIndex("ProductID");
+
+                    b.HasIndex("ProductID1");
 
                     b.ToTable("OrderItems");
                 });
@@ -292,12 +299,17 @@ namespace TheCollectorsKeep_Capstone.Migrations
                     b.Property<int>("ProductID")
                         .HasColumnType("int");
 
+                    b.Property<int?>("ProductID1")
+                        .HasColumnType("int");
+
                     b.Property<int>("WishlistID")
                         .HasColumnType("int");
 
                     b.HasKey("WishlistItemID");
 
                     b.HasIndex("ProductID");
+
+                    b.HasIndex("ProductID1");
 
                     b.HasIndex("WishlistID", "ProductID")
                         .IsUnique();
@@ -484,10 +496,14 @@ namespace TheCollectorsKeep_Capstone.Migrations
                         .IsRequired();
 
                     b.HasOne("DataAccessLayer.DataModels.Product", "Product")
-                        .WithMany("OrderItems")
+                        .WithMany()
                         .HasForeignKey("ProductID")
-                        .OnDelete(DeleteBehavior.Restrict)
+                        .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+
+                    b.HasOne("DataAccessLayer.DataModels.Product", null)
+                        .WithMany("OrderItems")
+                        .HasForeignKey("ProductID1");
 
                     b.Navigation("Order");
 
@@ -508,10 +524,14 @@ namespace TheCollectorsKeep_Capstone.Migrations
             modelBuilder.Entity("DataAccessLayer.DataModels.WishlistItem", b =>
                 {
                     b.HasOne("DataAccessLayer.DataModels.Product", "Product")
-                        .WithMany("WishlistItems")
+                        .WithMany()
                         .HasForeignKey("ProductID")
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
+
+                    b.HasOne("DataAccessLayer.DataModels.Product", null)
+                        .WithMany("WishlistItems")
+                        .HasForeignKey("ProductID1");
 
                     b.HasOne("DataAccessLayer.DataModels.Wishlist", "Wishlist")
                         .WithMany("WishlistItems")
