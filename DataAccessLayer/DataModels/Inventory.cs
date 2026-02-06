@@ -14,7 +14,7 @@ namespace DataAccessLayer.DataModels
         public int ProductID { get; set; }
 
         [ForeignKey(nameof(ProductID))]
-        public Product Product { get; set; }
+        public Product? Product { get; set; }
 
         [Required]
         [Range(0, int.MaxValue)]

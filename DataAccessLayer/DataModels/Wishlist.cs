@@ -15,11 +15,11 @@ namespace DataAccessLayer.DataModels
         public int WishlistID { get; set; }
 
         [Required]
-        public String CustomerID { get; set; }
+        public String CustomerID { get; set; } = string.Empty;
 
         [Required]
         [ForeignKey(nameof(CustomerID))]
-        public ApplicationUser Customer { get; set; }
+        public ApplicationUser? Customer { get; set; }
 
         [Required]
         public DateTime DateCreated { get; set; } = DateTime.UtcNow;

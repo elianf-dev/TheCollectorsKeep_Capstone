@@ -1,6 +1,5 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Identity;
-using System.Diagnostics;
 
 namespace DataAccessLayer.DataModels
 {
