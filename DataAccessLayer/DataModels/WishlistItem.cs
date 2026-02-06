@@ -19,7 +19,6 @@ namespace DataAccessLayer.DataModels
 
         [Required]
         [ForeignKey(nameof(ProductID))]
-        public Product Product { get; set; }
 
         [Required]
         public int WishlistID { get; set; }
