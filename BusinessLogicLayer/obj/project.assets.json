@@ -2989,23 +2989,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\elian\\.nuget\\packages\\": {},
+    "C:\\Users\\juan2\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+      "projectUniqueName": "C:\\Users\\juan2\\source\\repos\\TheCollectorsKeep_Capstone\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
       "projectName": "BusinessLogicLayer",
-      "projectPath": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
-      "packagesPath": "C:\\Users\\elian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\BusinessLogicLayer\\obj\\",
+      "projectPath": "C:\\Users\\juan2\\source\\repos\\TheCollectorsKeep_Capstone\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+      "packagesPath": "C:\\Users\\juan2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\juan2\\source\\repos\\TheCollectorsKeep_Capstone\\BusinessLogicLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\elian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\juan2\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3020,8 +3020,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\elian\\OneDrive - Dominican University\\TheCollectorsKeep_Capstone\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\juan2\\source\\repos\\TheCollectorsKeep_Capstone\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\juan2\\source\\repos\\TheCollectorsKeep_Capstone\\DataAccessLayer\\DataAccessLayer.csproj"
             }
           }
         }
@@ -3036,7 +3036,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -3057,7 +3057,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
