@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="../BusinessLogicLayer/BusinessLogicLayer.csproj" Id="d871455e-c767-4df4-932f-13b9246b54ff" />
-  <Project Path="../DataAccessLayer/DataAccessLayer.csproj" Id="e17c36d9-61b1-40b1-b165-e9bdd71a201c" />
+  <Project Path="BusinessLogicLayer/BusinessLogicLayer.csproj" />
+  <Project Path="DataAccessLayer/DataAccessLayer.csproj" />
   <Project Path="TheCollectorsKeep_Capstone.csproj" />
 </Solution>
