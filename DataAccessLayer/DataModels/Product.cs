@@ -24,6 +24,8 @@ namespace DataAccessLayer.DataModels
         [Required]
         [Range(0.01, double.MaxValue)]
         public decimal Price { get; set; }
+        [Required]
+        public int QuantityAvailable { get; set; }
 
         [StringLength(255)]
         public string ImagePath { get; set; }

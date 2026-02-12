@@ -1,0 +1,48 @@
+C:\Users\juan2\source\repos\TheCollectorsKeep_Capstone\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+C:\Users\juan2\source\repos\TheCollectorsKeep_Capstone\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+C:\Users\juan2\source\repos\TheCollectorsKeep_Capstone\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+C:\Users\juan2\source\repos\TheCollectorsKeep_Capstone\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\juan2\source\repos\TheCollectorsKeep_Capstone\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\juan2\source\repos\TheCollectorsKeep_Capstone\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\juan2\source\repos\TheCollectorsKeep_Capstone\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan2\source\repos\TheCollectorsKeep_Capstone\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\juan2\source\repos\TheCollectorsKeep_Capstone\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\juan2\source\repos\TheCollectorsKeep_Capstone\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\juan2\source\repos\TheCollectorsKeep_Capstone\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.sourcelink.json
+C:\Users\juan2\source\repos\TheCollectorsKeep_Capstone\BusinessLogicLayer\obj\Debug\net8.0\Business.450209FB.Up2Date
+C:\Users\juan2\source\repos\TheCollectorsKeep_Capstone\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+C:\Users\juan2\source\repos\TheCollectorsKeep_Capstone\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+C:\Users\juan2\source\repos\TheCollectorsKeep_Capstone\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+C:\Users\juan2\source\repos\TheCollectorsKeep_Capstone\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\TheCollectorsKeepGitFolder\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\TheCollectorsKeepGitFolder\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\TheCollectorsKeepGitFolder\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\TheCollectorsKeepGitFolder\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\TheCollectorsKeepGitFolder\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\TheCollectorsKeepGitFolder\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\TheCollectorsKeepGitFolder\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\TheCollectorsKeepGitFolder\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\TheCollectorsKeepGitFolder\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\TheCollectorsKeepGitFolder\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\TheCollectorsKeepGitFolder\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.sourcelink.json
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\TheCollectorsKeepGitFolder\BusinessLogicLayer\obj\Debug\net8.0\Business.450209FB.Up2Date
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\TheCollectorsKeepGitFolder\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\TheCollectorsKeepGitFolder\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\TheCollectorsKeepGitFolder\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\TheCollectorsKeepGitFolder\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.sourcelink.json
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\BusinessLogicLayer\obj\Debug\net8.0\Business.450209FB.Up2Date
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+C:\Users\elian\OneDrive - Dominican University\TheCollectorsKeep_Capstone\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll
